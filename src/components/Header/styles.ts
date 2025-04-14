@@ -28,6 +28,4 @@ export const HeaderContent = styled.div `
       max-width: 148px;
     }
   }
-
-  
 `
